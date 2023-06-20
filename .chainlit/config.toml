@@ -1,4 +1,4 @@
-[project]
+
 # If true (default), the app will be available to anonymous users.
 # If false, users will need to authenticate and be part of the project to use the app.
 public = true

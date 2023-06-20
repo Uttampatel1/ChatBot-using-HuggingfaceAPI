@@ -43,5 +43,9 @@ Run the `chat_app.py` file using the `chainlit` command:
 chainlit run chat_app.py -w
 ```
 
+## App Preview 📸
+
+![Chatbot](.chainlit/demo.mp4)
+
 ###  Ask your question and enjoy the chatbot's responses! 🤖💬
 
