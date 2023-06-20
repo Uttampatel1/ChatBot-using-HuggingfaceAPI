@@ -45,7 +45,8 @@ chainlit run chat_app.py -w
 
 ## App Preview 📸
 
-![Chatbot](.chainlit/demo.mp4)
+https://github.com/Uttampatel1/ChatBot-using-HuggingfaceAPI/assets/86312108/d0987440-7356-4d42-97ba-db5bbb6edbb5
+
 
 ###  Ask your question and enjoy the chatbot's responses! 🤖💬
 
