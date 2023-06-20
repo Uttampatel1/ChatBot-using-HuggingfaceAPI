@@ -33,21 +33,3 @@ Here are some examples of questions you can ask the chatbot:
 Feel free to ask any question, and the chatbot will do its best to provide a helpful response! 😊✨💡
 
 **Note:** The quality of the responses may vary, as the chatbot's ability to generate accurate and relevant answers depends on the input and available information. 🎯📝✅
-
-##  How to Run the Application 🏃‍♀️🏃‍♂️
-
-1.  Clone the repository to your local machine. 🖥️
-
-    ```bash
-    git clone ..
-    ```
-
-2.  Run the application. 🏃‍♀️🏃‍♂️
-    
-    ```bash
-    chainlit run chat_app.py -w
-    ```
-
-3.  Ask your question and enjoy the chatbot's responses! 🤖💬
-
-
